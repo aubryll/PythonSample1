@@ -1,10 +1,14 @@
 # PythonSample1
 Simply python Code I wrote when I first started learning Python
+
 Code Explanation
+
 Question 1:
 Make Two lists of animals A and B and compare them to find the intersection
+
 Question 2:
 Create a list of names of your choice and have a program that searches through the list for a name that match a partial name entered from the keyboard.
+
 
 Solution (Question A):
 First I create my lists of animals
