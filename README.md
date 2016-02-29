@@ -21,5 +21,20 @@ So that even though user inputs all lowercases or all uppercase the programmer a
 A trim Name () method that trims a name at given index to match the size with the entered name, but before it can do that it makes sure the list name has size ranging with the entered string so that incase the entered name is 10 characters and list name is 8 characters the program does not fail but simply skips the list name and looks for one within the required parameters
 The output name is then returned to the calling method
  
+     Copyright (c) 2016 Nemo Technology, Inc.
+ 
+    This file is part of PythonSample1.
+ 
+    This is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License
+    version 3 as published by the Free Software Foundation
+ 
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+ 
+    You should have received a copy of the GNU Affero General Public License
+    along with this program. If not, see <http://www.gnu.org/licenses/>.
  
 
